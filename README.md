@@ -3,6 +3,7 @@ A modern and responsive e-commerce application built with React, Tailwind CSS, N
 The project includes a full-featured frontend and a backend currently under development.
 
 🚀 Features
+
 ✅ Frontend
 
 
