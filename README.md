@@ -45,6 +45,8 @@ MongoDB integration
 
 
 🛠 Tech Stack
+
+
 Frontend
 
 
@@ -52,6 +54,7 @@ React.js
 
 
 Tailwind CSS
+
 
 Backend
 
