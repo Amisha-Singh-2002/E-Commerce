@@ -1,16 +1,75 @@
-# React + Vite
+E-Commerce Website
+A modern and responsive e-commerce application built with React, Tailwind CSS, Node.js, and Express.js.
+The project includes a full-featured frontend and a backend currently under development.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+✅ Frontend
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Fully responsive UI
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Modern, clean design using Tailwind CSS
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Product listing & product details pages
+
+
+Category-based navigation
+
+
+Add to cart functionality
+
+
+Smooth user interface interactions
+
+
+State management using React hooks/context
+
+
+✅ Backend (In Progress)
+
+
+User authentication (JWT)
+
+
+REST APIs for products, cart & orders
+
+
+Secure admin routes
+
+
+MongoDB integration 
+
+
+
+🛠 Tech Stack
+Frontend
+
+
+React.js
+
+
+Tailwind CSS
+
+Backend
+
+
+Node.js
+
+
+Express.js
+
+
+MongoDB 
+
+
+✅ Current Progress
+
+
+✅ Frontend completed
+
+
+🔄 Backend development ongoing
+
+
