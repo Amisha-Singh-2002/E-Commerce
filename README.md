@@ -1,5 +1,5 @@
 E-Commerce Website
-A modern and responsive e-commerce application built with React, Tailwind CSS, Node.js, and Express.js.
+A modern and responsive e-commerce application built with React, Tailwind CSS, Node.js, MongoDB and Express.js.
 The project includes a full-featured frontend and a backend currently under development.
 
 🚀 Features
